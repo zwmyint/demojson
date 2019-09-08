@@ -1,5 +1,5 @@
 # demojson
-Demo JSON
+Demo JSON (API test)
 
 https://my-json-server.typicode.com/zwmyint/demojson/posts
 
